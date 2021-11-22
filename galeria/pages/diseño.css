@@ -1,0 +1,18 @@
+.div1 {
+    float: left;
+    margin: 3%;
+}
+img {
+    width: 360px;
+    height: 210px;
+    border: 1px solid;
+    color: orange;
+}
+p {
+    text-align: center;
+    color: white;
+    font-weight: bold;
+    font-style: italic;
+    border: 1px solid;
+    padding: 2%;
+}
