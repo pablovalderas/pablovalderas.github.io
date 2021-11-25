@@ -1,0 +1,19 @@
+ul:nth-child(1) {
+    background-color: #282A35;
+    list-style: none;
+    text-align: center;
+    margin: 0;
+}
+ul:nth-child(1) li {
+    display: inline;
+}
+ul:nth-child(1) li a {
+    display: inline-block;
+    text-decoration: none;
+    color: white;
+    font-weight: bold;
+    padding: 15px;
+}
+ul:nth-child(1) li a:hover {
+    background-color: green;
+}
