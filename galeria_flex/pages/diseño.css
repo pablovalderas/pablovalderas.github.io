@@ -1,0 +1,16 @@
+* {
+    box-sizing: border-box;
+}
+body {
+    width: 85%;
+    margin: auto;
+}
+img {
+    width: 100%;
+}
+#row {
+    display: flex;
+}
+.columns {
+    padding-right: 4px;
+}
